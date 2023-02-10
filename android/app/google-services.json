@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "455306906513",
+    "project_id": "pusanuniv-b1903",
+    "storage_bucket": "pusanuniv-b1903.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455306906513:android:ebcb5c593e4a39d9442830",
+        "android_client_info": {
+          "package_name": "com.pusanuniv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455306906513-nb0m7h6c1mm7v03k9jkd8ppb5fkjnc7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pusanuniv",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "455306906513-222kqsgg86ku5s5gpga8vd46qh2krt5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNToYMtl8q-uDABzx7sYXjs0Gy6Q5pWwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455306906513-222kqsgg86ku5s5gpga8vd46qh2krt5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
